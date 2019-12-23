@@ -23,3 +23,4 @@
 [url-talk5]:./draft/5.人生果实.md
 [url-talk6]:./draft/6.小说.md
 [url-talk7]:./draft/7.情人.md
+[url-talk8]:./draft/8.以尿做领袖.md
